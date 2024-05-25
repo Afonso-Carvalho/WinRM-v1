@@ -16,7 +16,7 @@ print(tabela)
 
 # print(host)
 
-# if host =="192.168.0.149":
+# if host =="aaaa":
 #     print("oi")
 # else:
 #     print ("foda")
